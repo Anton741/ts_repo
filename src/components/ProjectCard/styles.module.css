@@ -1,0 +1,12 @@
+
+  .projectCard{
+    padding: 16px;
+    border: 1px solid rgba(135, 135, 135, 0.2);
+    border-radius: 8px;
+    font-family: Roboto;
+    font-size: 17px;
+    line-height: 22px;
+    color: #424242;
+    width: 86vw;
+    margin: 20px 0;
+  }

@@ -1,0 +1,12 @@
+.root{
+  padding: 10px 30px;
+}
+
+.addButton{
+  background: var(--color-anakiwa);
+}
+
+.center{
+  display: flex;
+  justify-content:center;
+}
