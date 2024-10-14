@@ -1,4 +1,4 @@
-# Counters project
+# TS project
 
 
 ## Description
